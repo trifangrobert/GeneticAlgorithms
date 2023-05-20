@@ -1,0 +1,33 @@
+population_size: 20
+domain: -2.7 4
+parameters: -1 3 6 5
+precision: 6
+crossover_rate: 0.25
+mutation_rate: 0.2
+epochs: 50
+random_add: 0.1
+
+population_size: 20
+domain: -2 0
+parameters: 3 5 -2 0
+precision: 6
+crossover_rate: 0.25
+mutation_rate: 0.1
+epochs: 50
+
+
+population_size: 20
+domain: -1 2
+parameters: -1 1 2
+precision: 6
+crossover_rate: 0.25
+mutation_rate: 0.1
+epochs: 50
+
+population_size: 20
+domain: -1 2
+parameters: -1 1 2
+precision: 2
+crossover_rate: 0.25
+mutation_rate: 0.1
+epochs: 100
